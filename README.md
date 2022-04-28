@@ -4,5 +4,4 @@
 
 ### - SkyLine Points
 ### - Range Search
-### - Range Search Tree
 ### - Closest Pair
